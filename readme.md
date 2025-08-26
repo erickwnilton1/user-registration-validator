@@ -26,7 +26,7 @@ Confirm Password: 123456
 ### Output
 
 ```text
-Registration completed.
+Registration completed
 ```
 
 ### Diagram
