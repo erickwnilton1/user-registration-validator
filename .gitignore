@@ -1,0 +1,6 @@
+# Build artifacts
+*bin
+*obj
+
+# User Registration SLN Build
+*user-registration-validator.sln
