@@ -35,4 +35,4 @@ Registration completed
 
 The diagram below illustrates the validation flow of the registration process.
 
-![Diagram](assets/diagram.png)
+![Diagram](assets/diagram-user-validation.png)
